@@ -1,0 +1,2 @@
+House price forecasting is an important topic of real estate. The literature attempts to derive useful knowledge from historical data of property markets. Data Science techniques are applied to analyse historical property transactions in India to discover useful models for house buyers and sellers. Revealed is the high discrepancy between house prices in the most expensive and most affordable suburbs in the city.
+Moreover, experiments demonstrate that the Multiple Linear Regression that is based on mean squared error measurement is a competitive approach
